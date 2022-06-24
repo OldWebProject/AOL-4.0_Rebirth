@@ -10,3 +10,7 @@ The first objects I managed to create are the main UI, Welcome Screen, BuddyView
 ![Sign On](https://i.imgur.com/K9RjFtt.png)
 ![Signed On](https://i.imgur.com/nkkQS3q.png)
 I hope you like it and I will work every day hard to finish this project :) Have a nice day!
+
+# AOL 4.0 | 06.24.2022 | Mail Center added
+It took me long to get many resources to look how the channels once looked in this version. After I found everything, I started making the AOL Mail Center. Later I will add the function to write and read e-mails. This is how it looks:
+![Mail Center](https://i.imgur.com/p8RhZgZ.png)

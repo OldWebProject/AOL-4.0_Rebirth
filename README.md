@@ -22,3 +22,5 @@ I finished the News Channel design. Because all my resources to recreate the cha
 
 # 06.25.2022 | Sign On, Sign In, Create Accounts
 After many bugs I managed to get the function work that you can create an account and sign into AOL with your created screenname. 
+![CreateAcc](https://i.imgur.com/i3Su491.png)
+![CreateAcc2](https://i.imgur.com/6eNZk51.png)

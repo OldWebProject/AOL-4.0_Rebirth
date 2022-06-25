@@ -1,8 +1,6 @@
 # OldWeb Project
 I'm triying to rebirth the OldWeb!
 I don't know if I can do this alone but I will try :D
-
-I hope someone wants to help me with this project!
 Have a nice day :)
 
 # AOL 4.0 | The first progress I made

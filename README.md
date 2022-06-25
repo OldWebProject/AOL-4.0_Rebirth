@@ -15,7 +15,7 @@ I hope you like it and I will work every day hard to finish this project :) Have
 It took me long to get many resources to look how the channels once looked in this version. After I found everything, I started making the AOL Mail Center. Later I will add the function to write and read e-mails. This is how it looks:
 ![Mail Center](https://i.imgur.com/p8RhZgZ.png)
 
-## 09:04 PM - Europe;Germany Time
+## 09:04 PM - Europe;Germany Time | News Channel First Look
 
 I finished the News Channel design. Because all my resources to recreate the channels are white-gray, I can't replicate them exactly but it doesn't look that bad. At the end maybe before the Final Beta I redo all the channels. Here is the first look of the News Channel: 
 ![News Channel](https://i.imgur.com/pt3OznK.png)

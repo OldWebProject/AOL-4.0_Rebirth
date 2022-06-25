@@ -19,3 +19,6 @@ It took me long to get many resources to look how the channels once looked in th
 
 I finished the News Channel design. Because all my resources to recreate the channels are white-gray, I can't replicate them exactly but it doesn't look that bad. At the end maybe before the Final Beta I redo all the channels. Here is the first look of the News Channel: 
 ![News Channel](https://i.imgur.com/pt3OznK.png)
+
+# 06.25.2022 | Sign On, Sign In, Create Accounts
+After many bugs I managed to get the function work that you can create an account and sign into AOL with your created screenname. 

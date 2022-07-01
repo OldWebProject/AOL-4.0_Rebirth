@@ -1,4 +1,4 @@
-!IMPORTANT: THE AOL 4.0 REBIRTH PROGRESS IS NOW ON THE PROGRESS BRANCH!
+❗️***IMPORTANT: THE AOL 4.0 REBIRTH PROGRESS IS NOW ON THE PROGRESS BRANCH*** ❗️
 
 ## Hi, I'm Patrick - aka. TheOldWebProject :)
 ## I'm a hobby Developer and Student at High School :)

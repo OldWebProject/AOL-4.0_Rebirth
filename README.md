@@ -20,3 +20,11 @@ After many bugs I managed to get the function work that you can create an accoun
 
 ## Information 30.06.2022
 Hey friends :) For the next days I won't be able to work my project because I got sick. I'm very sorry! As soon as I get healthy again I will continue my work. Have a nice day :)
+
+<details>
+<summary>The News Channel</summary>
+<br>
+This is Version 0.2 of the AOL News Channel.
+  ❗️Remember this is currently a Beta Progress of the Channel and not the final❗️
+![News Channel](https://i.imgur.com/Q6wOzu5.png)
+</details>

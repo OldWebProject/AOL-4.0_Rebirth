@@ -1,3 +1,5 @@
+!IMPORTANT: THE AOL 4.0 REBIRTH PROGRESS IS NOW ON THE PROGRESS BRANCH!
+
 ## Hi, I'm Patrick - aka. TheOldWebProject :)
 ## I'm a hobby Developer and Student at High School :)
 - I'm currently working on my Old Web Project whichh is explained below.
@@ -20,5 +22,5 @@ Without that you couldn't go "online"! But now over the past 20 Years of new dev
 But as longer we stay on our minimalistic webistes, some of us miss the old times of the Internet. And that's why I'm here. I'm working currently alone and I want to start this project. I will try until I finish and I hope that some of you think the same as me. So I created the company: The Old Web Rebirth ©
 
 
-!IMPORTANT: THE PROGRESS IS NOW ON THE PROGRESS BRANCH!
+
 

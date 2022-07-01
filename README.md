@@ -10,7 +10,7 @@ This project is trying to recreate the Old Web. In this project, we will try to 
 -Old Websites(with function)
 -AOL Software - Current Working Process
 -Dial Services
--Old OS Support Revive (Windows 95,98,2000,ME,XP)
+-Old OS Support Revive (Windows 95,98,2000,ME,XP) means that old programs like NET Meeting (win95) are being restored with function
 -Old Phone Revive
 -And more...
 

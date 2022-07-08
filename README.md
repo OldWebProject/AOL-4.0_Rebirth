@@ -12,7 +12,11 @@
 <details>
 <summary>The News Channel</summary>
 <br>
-This is Version 0.2 of the AOL News Channel.
+News Channel Beta Version 0.3:
+❗️Remember this is currently a Beta Progress of the Channel and not the final❗️
+<img alt="newschannelbeta03" src="https://i.imgur.com/LoZVDTW.png"/>
+
+News Channel Beta Version 0.2:
 ❗️Remember this is currently a Beta Progress of the Channel and not the final❗️
 <img alt="News Channel Beta V.02" src="https://i.imgur.com/Q6wOzu5.png"/>
 </details>
@@ -132,8 +136,7 @@ It took me long to get many resources to look how the channels once looked in th
 
 ## 09:04 PM - Europe;Germany Time | News Channel Beta V.0.2 
 
-I finished the News Channel design. Because all my resources to recreate the channels are white-gray, I can't replicate them exactly but it doesn't look that bad. At the end maybe before the Final Beta I redo all the channels. Here is the first look of the News Channel: 
-![News Channel](https://i.imgur.com/Q6wOzu5.png)
+See in Channel Progress :D
 
 # 06.25.2022 | Sign On, Sign In, Create Accounts
 After many bugs I managed to get the function work that you can create an account and sign into AOL with your created screenname. 

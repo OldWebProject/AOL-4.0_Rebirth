@@ -6,7 +6,7 @@
 <details>
 <summary>AOL Today</summary>
 <br>
-🔜 This Channel has not been started yet. As soon as the channel has been developed for the first time, the progress will be shown here :)
+<img alt="aoltodaybeta01" src="https://i.imgur.com/xdbM3GW.png"/>
 </details>
 
 <details>
